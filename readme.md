@@ -1,0 +1,1 @@
+# Simple python class for directiory's list manipulation
